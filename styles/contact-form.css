@@ -1,0 +1,47 @@
+/* Estilos para o formulário de contato */
+.contact-form input,
+.contact-form textarea {
+  color: #000000 !important;
+  font-weight: 500 !important;
+}
+
+.contact-form input:focus,
+.contact-form textarea:focus {
+  color: #000000 !important;
+}
+
+/* Estilos para placeholder visível no formulário de contato */
+.contact-form input::placeholder,
+.contact-form textarea::placeholder {
+  color: #666666 !important;
+  opacity: 1 !important;
+  font-weight: 400 !important;
+}
+
+.contact-form input:focus::placeholder,
+.contact-form textarea:focus::placeholder {
+  color: #999999 !important;
+  opacity: 1 !important;
+}
+
+/* Para navegadores que suportam webkit */
+.contact-form input::-webkit-input-placeholder,
+.contact-form textarea::-webkit-input-placeholder {
+  color: #666666 !important;
+  opacity: 1 !important;
+  font-weight: 400 !important;
+}
+
+.contact-form input::-moz-placeholder,
+.contact-form textarea::-moz-placeholder {
+  color: #666666 !important;
+  opacity: 1 !important;
+  font-weight: 400 !important;
+}
+
+.contact-form input:-ms-input-placeholder,
+.contact-form textarea:-ms-input-placeholder {
+  color: #666666 !important;
+  opacity: 1 !important;
+  font-weight: 400 !important;
+}
