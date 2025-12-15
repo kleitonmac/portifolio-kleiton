@@ -10,6 +10,7 @@ import { Footer } from "./components/Footer";
 import { LanguageProvider } from "./components/i18n/LanguageContext";
 import { ContactSection } from "./components/ContactSection";
 
+
 export default function App() {
   useEffect(() => {
     document.title = "Kleiton | Portifólio";
