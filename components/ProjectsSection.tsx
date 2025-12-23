@@ -29,6 +29,16 @@ export function ProjectsSection() {
     },
     {
       id: 3,
+      title: "CodeBurguer",
+      description: t("project_codeburgue_desc"),
+      technologies: ["Javascript","CSS", "React","UI/UX","Typescript","Styled-Components","EmailJS","Figma"],
+      image:
+        "/code.png",
+      link: "https://codeburgue.vercel.app/",
+      github: "https://github.com/kleitonmac/codeburgue",
+    },
+    {
+      id: 4,
       title: "Dashboard Kdev",
       description: t("Dashboard KDev: um painel moderno e intuitivo para gerenciar projetos e monitorar implantações, métricas e desempenho de forma centralizada e eficiente."),
       technologies: ["Javascript", "CSS", "React","UI/UX","Styled-Components"],
@@ -38,7 +48,7 @@ export function ProjectsSection() {
       github: "https://github.com/kleitonmac/admin-dashboard",
     },
     {
-      id: 4,
+      id: 5,
       title: "Loja Nike",
       description: t("project_nike_store_desc"),
       technologies: ["Javascript", "CSS", "Styled-Components"],
@@ -48,7 +58,7 @@ export function ProjectsSection() {
       github: "https://github.com/kleitonmac/nike",
     },
     {
-      id: 4,
+      id: 6,
       title: "Inventory Management System",
       description: t("project_inventory_system_desc"),
       technologies: ["Python", "Django", "Styled-Components"],
@@ -58,7 +68,7 @@ export function ProjectsSection() {
       github: "https://github.com/kleitonmac/sge",
     },
     {
-      id: 5,
+      id: 7,
       title: "Consórcio Dev",
       description: t("project_consorcio_dev_desc"),
       technologies: ["Python", "Django", "Styled-Components"],
@@ -68,7 +78,7 @@ export function ProjectsSection() {
       github: "https://github.com/kleitonmac/carros",
     },
     {
-      id: 6,
+      id: 8,
       title: "Parking Management System",
       description: t("project_parking_system_desc"),
       technologies: ["Django", "API", "AI", "Postman"],
