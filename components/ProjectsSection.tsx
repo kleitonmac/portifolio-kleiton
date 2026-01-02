@@ -87,6 +87,17 @@ export function ProjectsSection() {
       link: "https://github.com/kleitonmac/estacionamento",
       github: "https://github.com/kleitonmac/estacionamento",
     },
+    {
+      id: 9,
+      title: "Bar do Bispo",
+      description: t("project_bardobispo_desc"),
+      technologies: ["React", "React-dom", "Tailwind CSS", "Figma", "JavaScript", "Hooks"],
+      image:
+        "/public/bispo.png",
+      link: "https://bispobar.vercel.app/",
+      github: "https://github.com/kleitonmac/bispo",
+    },
+
   ];
 
   return (

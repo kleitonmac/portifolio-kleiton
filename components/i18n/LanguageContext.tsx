@@ -51,6 +51,7 @@ const dictionaries: Dictionaries = {
     project_consorcio_dev_desc: "A website designed for car sales. This project simulates a consortium system with a focus on performance using the Django backend and payment system.",
     project_parking_system_desc: "Parking management system with space control, reporting, and integration with AI API for license plate recognition.",
     project_codeburgue_desc: "A burger ordering platform that offers a seamless user experience from browsing the menu to placing an order. Built with a focus on responsive design and efficient  processing.",
+    project_bardobispo_desc: "A website for a bar and restaurant that showcases the menu, location, and special events. Designed with a focus on user experience and mobile responsiveness.",
 
     contact_title: "Let's Work Together",
     contact_desc:
@@ -110,6 +111,7 @@ const dictionaries: Dictionaries = {
     project_consorcio_dev_desc: "Um site projetado para venda de carros. Este projeto simula um sistema de consórcio com foco em performance usando o backend Django e sistema de pagamento.",
     project_parking_system_desc: "Sistema de gestão de estacionamento com controle de vagas, relatórios e integração com API de IA para reconhecimento de placas de veículos.",
     project_codeburgue_desc: "Uma plataforma de pedidos de hambúrguer que oferece uma experiência de usuário perfeita desde a navegação pelo menu até a realização do pedido. Construída com foco em design responsivo e processamento eficiente",
+    project_bardobispo_desc: "Um site para um bar e restaurante que exibe o cardápio, localização e eventos especiais. Projetado com foco na experiência do usuário e responsividade móvel.",
 
     contact_title: "Vamos Trabalhar Juntos",
     contact_desc:
