@@ -91,7 +91,7 @@ export function ProjectsSection() {
       id: 9,
       title: "Bar do Bispo",
       description: t("project_bardobispo_desc"),
-      technologies: ["React", "React-dom", "Tailwind CSS", "Figma", "JavaScript", "Hooks"],
+      technologies: ["React", "React-dom", "Tailwind CSS", "Figma", "JavaScript", "TypeScript"],
       image:
         "/bispo.png",
       link: "https://bispobar.vercel.app/",
